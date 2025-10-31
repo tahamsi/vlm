@@ -1,0 +1,9 @@
+[submodule "blip-2"]
+	path = blip-2
+	url = https://github.com/tahamsi/blip-2.git
+[submodule "univlm"]
+	path = univlm
+	url = https://github.com/tahamsi/univlm.git
+[submodule "florence-2"]
+	path = florence-2
+	url = https://github.com/tahamsi/florence-2.git
